@@ -3,7 +3,7 @@ module anime-vod-data
 go 1.21
 
 require (
-	github.com/PuerkitoBio/goquery v1.9.0
+	github.com/PuerkitoBio/goquery v1.9.1
 	github.com/goccy/go-json v0.10.2
 )
 
