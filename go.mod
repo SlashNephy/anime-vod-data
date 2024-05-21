@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.2
-	github.com/goccy/go-json v0.10.2
+	github.com/goccy/go-json v0.10.3
 )
 
 require (
