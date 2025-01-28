@@ -6,7 +6,7 @@ toolchain go1.23.5
 
 require (
 	github.com/PuerkitoBio/goquery v1.10.1
-	github.com/goccy/go-json v0.10.4
+	github.com/goccy/go-json v0.10.5
 )
 
 require (
