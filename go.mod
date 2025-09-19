@@ -2,7 +2,7 @@ module anime-vod-data
 
 go 1.23.0
 
-toolchain go1.24.6
+toolchain go1.24.7
 
 require (
 	github.com/PuerkitoBio/goquery v1.10.3
